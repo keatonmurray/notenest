@@ -23,6 +23,12 @@ Notenest is your **centralized task management companion** fully integrated with
 - 💡 **Central Hub for Productivity**  
   All your essential project info and updates aggregated in one sleek, user-friendly dashboard.
 
+- 📅 **Google Calendar Integration**  
+  See all your important meetings for the day
+
+- 📒 **Notes**  
+  Tired of locating your notes scattered across folders? We have it sorted for you so you don't have to.
+
 ---
 
 ## Why Notenest?
@@ -41,12 +47,6 @@ Forget juggling multiple tabs and apps. Notenest gives you a **simple, elegant i
 
 3. **Track progress and time**  
    Update task statuses and log your working hours without leaving the app.
-
-4. **View your team assignments**  
-   See all your team assignments within the app.
-
-5. **Revisit important notes**  
-   Tired of locating your notes scattered across folders? We have it sorted for you so you don't have to.
 
 ---
 
