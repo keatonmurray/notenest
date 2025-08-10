@@ -2,7 +2,7 @@
 
 ## About Notenest
 
-Notenest is your **centralized task management companion** fully integrated with **Basecamp** — designed to keep your projects, tasks, and progress neatly organized all in one place.
+Notenest is your **centralized task management companion** fully integrated with **Basecamp** — designed to keep your projects, tasks, and progress neatly organized all in one place. Clean UI, designed to be teams-friendly.
 
 ---
 
