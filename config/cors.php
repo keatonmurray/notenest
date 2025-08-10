@@ -19,7 +19,8 @@ return [
         'api/*', 
         'sanctum/csrf-cookie', 
         'get-user-tasks', 
-        'get-assignees'
+        'get-assignees',
+        'get-todos'
     ],
 
     'allowed_methods' => ['*'],
