@@ -20,7 +20,6 @@ return [
         'sanctum/csrf-cookie', 
         'get-user-tasks', 
         'get-assignees',
-        'get-todos',
         'get-todo-lists'
     ],
 
