@@ -20,7 +20,8 @@ return [
         'sanctum/csrf-cookie', 
         'get-user-tasks', 
         'get-assignees',
-        'get-todos'
+        'get-todos',
+        'get-todo-lists'
     ],
 
     'allowed_methods' => ['*'],
